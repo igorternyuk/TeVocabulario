@@ -79,3 +79,172 @@ cease
 begin
 try
 assume
+switch off
+reciprocal
+sweet
+bitter
+sour
+vegetable herb
+skin
+honey
+screwdriver
+keyboard
+key
+directory
+tire
+nurse
+berry
+stawberry
+meat
+knife
+fork
+spoon
+meet
+job interview
+hand
+leg
+head
+cow
+dog
+wolf
+bear
+marten
+mint
+tee
+pneumatical boat
+sleeve
+rainbow
+arc
+elbow
+knee
+acid
+alkali
+fish
+light
+searchlight
+throw
+bound
+frame
+tube
+exhaust pipe
+bishop
+devil
+death
+life
+joy
+future
+slow
+boring
+correct
+important
+decelerate
+estimate
+explode
+rupture
+destroy
+construction
+gearshift lever
+lever
+velocity
+acceleration
+health
+illness
+guinea pig
+sea
+midnight shift
+look
+famous
+congratulation
+grab
+tier
+furious
+carry
+disfigure
+lonely
+orbital station
+bus-stop
+truth
+accident
+case
+murder
+cry
+be silent
+grain harvester combine
+remote control
+hang around
+tights
+saw
+edgeless
+anchor
+haircut
+chase
+measure
+intimate
+noble
+married couple
+exhaust
+nasty
+fress
+hedgehog
+get away
+goods
+underclothing
+queen
+owned
+nightmare
+take out
+lease
+terrible
+list
+insolence
+obligatory bill
+leather
+drum
+delicious
+put
+secret
+gladly
+sinister
+jealous
+fever
+emergency
+dangerous
+pale
+hammer
+blade
+nail
+spring
+turbine disk
+gas turbine engine
+glass
+eye
+cheek
+eyelash
+tooth
+doctor
+lawyer
+violin
+freedom
+tenacious
+dry
+wet
+towel
+pliers
+flat nose pliers
+lock
+climb
+develop
+begin on
+attack
+tangible
+apple
+run out
+juice
+fry
+mad
+clumsy
+crunch
+crawl
+scramble
+heaven
+look forward

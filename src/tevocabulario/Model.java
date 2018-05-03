@@ -37,16 +37,12 @@ public class Model implements ConstantModel{
         try {
                 english = new ArrayList<>();
                 readFromFile("dict/en.txt", english);
-                System.out.println("english.size() = " + english.size());
                 german = new ArrayList<>();
                 readFromFile("dict/de.txt", german);
-                System.out.println("german.size() = " + german.size());
                 spanish = new ArrayList<>();
                 readFromFile("dict/es.txt", spanish);
-                System.out.println("spanish.size() = " + spanish.size());
                 russian = new ArrayList<>();
                 readFromFile("dict/ru.txt", russian);
-                System.out.println("russian.size() = " + russian.size());
         } catch (UnsupportedEncodingException ex) {
             Logger.getLogger(Model.class.getName()).log(Level.SEVERE, null, ex);
         }
